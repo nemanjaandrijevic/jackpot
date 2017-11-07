@@ -1,0 +1,152 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+h3 {
+    padding: 30px;
+}
+
+.container {
+    font-size: 14px;
+
+    width: 1118px;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+}
+
+.color-y {
+    color: yellow;
+}
+
+.last-j-size {
+    font-size: 18px;
+}
+
+.now-j-size {
+    font-size: 22px;
+}
+
+.logo-gold {
+    background-position: -370px -907px;
+    width: 48px;
+    height: 49px;
+}
+
+.logo-silver {
+    background-position: -298px -907px;
+    width: 48px;
+    height: 49px;
+}
+
+.logo-bronze {
+    background-position: -226px -907px;
+    width: 48px;
+    height: 49px;
+}
+
+.logo-diamond {
+    background-position: -514px -907px;
+    width: 48px;
+    height: 49px;
+}
+
+.logo-platinum {
+    background-position: -442px -907px;
+    width: 48px;
+    height: 49px;
+}
+
+.sprite {
+    background-image: url(sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.c-gold {
+    color: gold;
+}
+
+.c-silver {
+    color: silver;
+}
+
+.c-bronze {
+    color: #e6937f;
+}
+
+.c-diamond {
+    color: #6cbbe9;
+}
+
+.c-platinum {
+    color: #dfcdcb;
+}
+
+.last-jackpot{
+    border-bottom: 1px solid white;
+    padding-bottom: 40px;
+}
+
+.gold-jackpot {
+    width: 200px;
+    height: 160px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 10px;
+
+    border-right: 1px solid white;
+}
+
+.now-jackpot {
+    padding-bottom: 40px;
+    border-bottom: 1px solid white;
+}
+
+.jackpot-diamond {
+    display: inline-block;
+    border-right: 1px solid white;
+    padding: 0 150px;
+}
+
+.jackpot-platinum {
+    display: inline-block;
+    padding: 0 150px;
+}
+
+
+.dis-logo {
+    display: inline-block;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.opis {
+    /*display: inline-block;*/
+    padding: 40px 10px;
+}
+
+.ofer-1 {
+    display: inline-block;
+    /*width: 50%;*/
+    padding: 0 30px;
+}
+
+.ofer-2 {
+    display: inline-block;
+    /*width: 50%;*/
+    padding: 0 30px;
+}
+
+.small-text {
+    font-size: 10px;
+}
